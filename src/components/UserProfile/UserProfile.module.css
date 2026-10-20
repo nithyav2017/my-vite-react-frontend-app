@@ -1,0 +1,25 @@
+.container{
+    /* background-color: #f3f4f6; */
+    border: 2px solid #eef0f2;
+    border-radius: 8px;
+    padding:16px;
+    text-align:center;
+
+}
+.admin{
+    background-color: #4F46E5;
+    color: #fff;
+}
+
+.regular{
+    background-color: #F3F3F6;
+    color: #1F2937;
+}
+.name{
+    font-weight: bold;
+    color: #1f2937;
+}
+
+.age{
+    color: #4b5563;
+}
